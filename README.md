@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="./banner.png" alt="Maria Correia - Software Developer" width="100%" />
+</div>
+
  <div align="center">
 
 # 👋 Olá, eu sou a Maria!
