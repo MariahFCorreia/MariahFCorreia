@@ -77,6 +77,7 @@ Gosto de transformar necessidades reais em soluções tecnológicas funcionais, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="55" height="55" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/github/github-original.svg" width="55" height="55" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" />
+  <img src="https://cdn.simpleicons.org/zabbix/D40000" width="55" height="55" alt="Zabbix" title="Zabbix" />
 </p>
 
 ---
