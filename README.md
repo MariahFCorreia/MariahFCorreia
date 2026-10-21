@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner.png.png" alt="Maria Correia - Software Developer" width="100%" />
+  <img src="./banner.png" alt="Maria Correia - Software Developer" width="100%" />
 </div>
 
  <div align="center">
