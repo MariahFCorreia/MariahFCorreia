@@ -84,31 +84,32 @@ Gosto de transformar necessidades reais em soluções tecnológicas funcionais, 
 
 ## 🚀 Projetos em destaque
 
-### 📦 LogiTrack — Sistema de logística
+### 📦 [LogiTrack](https://github.com/MariahFCorreia/logitrack)
 
-Projeto com foco em desenvolvimento back-end Java, APIs e arquitetura de microsserviços.
+Sistema de logística com foco em desenvolvimento back-end Java, APIs e arquitetura de microsserviços.
 
 **Tecnologias:** Java, Spring Boot, Angular e SQL.
 
-### 🏥 VetClinic ERP — Gestão veterinária
+### ☕ [Desafio Itaú — API Java](https://github.com/MariahFCorreia/Spring.boot.desafio.itau)
+
+Projeto de API back-end desenvolvido com Java e Spring Boot.
+
+**Tecnologias:** Java, Spring Boot e APIs REST.
+**Tecnologias:** Java, Spring Boot, Angular e SQL.
+
+### 🏥 [VetClinic ERP — Gestão veterinária](https://github.com/MariahFCorreia/vetclinic-backend)
 
 Sistema de gestão veterinária desenvolvido para organizar processos administrativos e operacionais, com foco na praticidade e automação de tarefas.
 
 **Tecnologias:** Python, Flask, PostgreSQL, React e Docker.
 
-### 🧠 Neuro-Link — Tecnologia e saúde
+### 🧠 [Neuro-Link — Tecnologia e saúde](https://github.com/MariahFCorreia/neuro_slk)
 
 Projeto voltado ao processamento de sinais biomédicos, organização de dados clínicos e análise computacional aplicada ao acompanhamento de condições neurológicas.
 
 **Tecnologias e recursos:** Python, processamento de sinais, análise de dados e aprendizado de máquina.
 
-### 🔌 APIs e integrações
-
-Projetos de estudo e desenvolvimento envolvendo APIs REST, lógica de negócio, segurança e integração entre aplicações.
-
-**Tecnologias:** Java, Spring Boot, SQL e ferramentas de desenvolvimento.
-
-### 📊 Sistemas de gestão e automação
+### 📊 [Sistemas de gestão e automação](https://github.com/MariahFCorreia/Meu_ERP)
 
 Desenvolvimento de aplicações para controle de estoque, organização de informações e automação de processos, buscando reduzir tarefas repetitivas e melhorar a eficiência operacional.
 
