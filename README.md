@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./banner.png" alt="Maria Correia - Software Developer" width="100%" />
+  <img src="./banner.png.png" alt="Maria Correia - Software Developer" width="100%" />
 </div>
 
  <div align="center">
@@ -57,7 +57,6 @@ Gosto de transformar necessidades reais em soluções tecnológicas funcionais, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="55" height="55" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/angular/angular-original.svg" width="55" height="55" alt="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/celery/celery-original.svg" width="55" height="55" alt="Celery" />
 </p>
 
 ### 🗄️ Bancos de dados
